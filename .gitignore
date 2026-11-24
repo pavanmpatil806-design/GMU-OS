@@ -1,0 +1,22 @@
+# Build output
+/build/
+/usb_files/
+*.img
+*.EFI
+*.BIN
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+*~
